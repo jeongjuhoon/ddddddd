@@ -1,0 +1,18 @@
+@-webkit-keyframes clh { 0%{margin-top: -300px;} 50%{margin-top:-330px;} 100%{margin-top:-300px;} }
+.clheart {animation-name: clh; animation-duration: 5s; animation-timing-function: ease-in; animation-iteration-count: infinite; }
+
+
+@-webkit-keyframes clf { 0%{left:0px;} 100%{left:-2000px;} }
+.cl {animation-name: clf; animation-duration: 80s; animation-timing-function: ease-in; animation-fill-mode: forwards;}
+
+@-webkit-keyframes clft { 0%{left:100%;} 100%{left:-100%;} }
+.cl2 {animation-name: clft; animation-duration: 90s; animation-timing-function: ease-in; animation-fill-mode: forwards;animation-iteration-count: infinite;}
+
+
+@-webkit-keyframes clftt { 0%{left:100%;} 100%{left:-100%;} }
+.cl3 {animation-name: clftt; animation-delay:58s; animation-duration: 80s; animation-timing-function: ease-in; animation-fill-mode: forwards;animation-iteration-count: infinite;}
+
+
+
+
+g{position: absolute;}
